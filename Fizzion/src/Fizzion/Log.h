@@ -4,8 +4,6 @@
 #include "spdlog/spdlog.h"
 #include "spdlog/fmt/ostr.h"
 
-#include <memory>
-
 namespace Fizzion
 {
 	class FIZZION_API Log

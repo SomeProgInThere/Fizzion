@@ -2,9 +2,6 @@
 
 #include "Fizzion/Core.h"
 
-#include <string>
-#include <functional>
-
 namespace Fizzion
 {
 	/* Currently the events are executed as interrupt */
@@ -22,9 +19,9 @@ namespace Fizzion
 	{
 		None = 0,
 		EventGroupApplication = BIT(0),
-		EventGroupInput = BIT(1),
-		EventGroupKeyboard = BIT(2),
-		EventGroupMouse = BIT(3),
+		EventGroupInput       = BIT(1),
+		EventGroupKeyboard    = BIT(2),
+		EventGroupMouse       = BIT(3),
 		EventGroupMouseButton = BIT(4),
 	};
 

@@ -1,7 +1,7 @@
 #pragma once
 
+#include "fzpch.h"
 #include "Event.h"
-#include <sstream>
 
 namespace Fizzion
 {
