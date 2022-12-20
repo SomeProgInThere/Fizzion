@@ -1,0 +1,3 @@
+[submodule "Fizzion/lib/spdlog"]
+	path = Fizzion/lib/spdlog
+	url = https://github.com/gabime/spdlog
