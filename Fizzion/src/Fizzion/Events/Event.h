@@ -1,7 +1,7 @@
 #pragma once
 
 #include "Fizzion/Core.h"
-
+#include "fzpch.h"
 namespace Fizzion
 {
 	/* Currently the events are executed as interrupt */

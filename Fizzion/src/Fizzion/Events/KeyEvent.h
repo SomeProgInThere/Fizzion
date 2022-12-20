@@ -1,6 +1,5 @@
 #pragma once
 
-#include "fzpch.h"
 #include "Event.h"
 
 namespace Fizzion

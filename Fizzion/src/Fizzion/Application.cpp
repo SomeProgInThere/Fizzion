@@ -2,7 +2,7 @@
 
 #include "Fizzion/Events/ApplicationEvent.h"
 #include "Fizzion/Log.h"
-
+#include "fzpch.h"
 namespace Fizzion
 {
 	Application::Application() {}

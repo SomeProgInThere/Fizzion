@@ -1,6 +1,5 @@
 #include "Log.h"
 
-#include "fzpch.h"
 #include "spdlog/sinks/stdout_color_sinks.h"
 
 namespace Fizzion
