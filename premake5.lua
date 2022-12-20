@@ -27,6 +27,7 @@ project "Fizzion"
 
     includedirs
     {
+        "%{prj.name}/src",
         "%{prj.name}/lib/spdlog/include"
     }
 

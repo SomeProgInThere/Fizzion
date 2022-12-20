@@ -3,7 +3,7 @@
 // For use by Fizzion Applications
 
 #include "Fizzion/Application.h"
-#include "Fizzion/Logger.h"
+#include "Fizzion/Log.h"
 
 // ENTRY POINT
 

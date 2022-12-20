@@ -10,6 +10,4 @@
 	#error Fizzion only supports Windows! 
 #endif
 
-// Loading inbuild libraries
-#include <string>
-#include <functional>
+#define BIT(x) (1 << x)
