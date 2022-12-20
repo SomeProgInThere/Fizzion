@@ -19,7 +19,7 @@ project "Fizzion"
     targetdir ("bin/" .. outputdir .. "/%{prj.name}")
     objdir ("obj/" .. outputdir .. "/%{prj.name}")
 
-    pchheader "fzpch.h"
+    --pchheader "fzpch.h"
     pchsource "Fizzion/src/fzpch.cpp"
 
     files
